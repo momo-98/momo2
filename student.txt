@@ -1,0 +1,3 @@
+student name: mohamed mohamedin
+student number: 628565
+student class: c1
